@@ -13,7 +13,7 @@ After the initial set up we can run the following commands to build and upload o
 
 ## Docker Commands
 
-```javascript
+```
 #to build the environment
 docker build -t osproject:latest .
 
